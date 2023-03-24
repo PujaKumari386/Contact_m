@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+        "id": "AA45",
+        "name": "Bablu",
+        "email": "bublegum@gmail.com",
+        "photo": "https://media.istockphoto.com/id/1330351158/vector/lips-blowing-pink-bubble-gum-vector-pop-art-illustration-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=FQahb5UHFS-bNYDb_6tS8eF2RMa9tliLiM4ynCmIdzI=",
+        "mobile": "56645668",
+        "company": "BGM Lmt.",
+        "title": "Civil Engineer",
+        "groupId": "1"
+    },
+    {
+        "id": "TPP1",
+        "name": "Kismis",
+        "email": "jgjg@gmail.com",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKqQ8h7UfVD_gsEroX6eDKb2hE-JG8MsbIYqCCvOirHuBV92ijA_02LOINC_MGEN18TZ0&usqp=CAU",
+        "mobile": "56468451",
+        "company": "Ratlam Private Lmt.",
+        "title": "Electrical Engineer",
+        "groupId": "2"
+    },
+    {
+        "id": "TPP22",
+        "name": "Kaju",
+        "email": "kkaju@gmail.com",
+        "photo": "https://icons.veryicon.com/png/o/food--drinks/food-battle/cashew-38.png",
+        "mobile": "65435136",
+        "company": "Raja Babu & Companies",
+        "title": "Data scientist",
+        "groupId": "3"
+    },
+    {
+        "id": "TTA52",
+        "name": "Kuruk",
+        "email": "ksghku@gmail.com",
+        "photo": "https://w1.pngwing.com/pngs/743/500/png-transparent-circle-silhouette-logo-user-user-profile-green-facial-expression-nose-cartoon-thumbnail.png",
+        "mobile": "4656882578",
+        "company": "HCL Technologies",
+        "title": "Software Engineer",
+        "groupId": "4"
+    }
+    ],
+    "groups": [
+        {
+            "id": "1",
+            "name": "Colleague"
+        },
+        {
+            "id": "2",
+            "name": "Friend"
+        },
+        {
+            "id": "3",
+            "name": "Family"
+        },
+        {
+            "id": "4",
+            "name": "Social"
+        }
+    ]
+}
